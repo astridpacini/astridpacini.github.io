@@ -1,13 +1,13 @@
 # Icons on the footer
 rss:         # Make sure you created a feed.xml with feed.xml layout
-email_address: maraf@mit.edu   # Full email address, e.g. "sam@example.com"
+email_address: apacini@whoi.edu   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "mfreilich1"
+github: "astridpacini"
 instagram:
 keybase:
 linkedin:         # Full URL
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter: maratimes         # "twitter username"
+twitter: AstridPacini         # "twitter username"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
